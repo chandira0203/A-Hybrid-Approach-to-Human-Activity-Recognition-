@@ -10,7 +10,7 @@ In this module, we develop and train the hybrid model using a dataset containing
 
 **Dataset Link -** https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 
-(**Note:** To make integration easier, the trained model.h5 file is also included directly in the project.)
+(**Note:** To make integration easier, the trained model.h5 file is also included directly in the repository named **modelnew.h5**)
 
 **Module 2: Violence Detection Model**
 
