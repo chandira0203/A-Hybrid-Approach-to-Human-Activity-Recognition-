@@ -4,7 +4,7 @@ This project focuses on detecting human violence using a hybrid deep learning me
 
 The solution is divided into four key modules:
 
-#Module 1: Model Workbook
+#Module-1:-Model-Workbook
 
 In this module, we develop and train the hybrid model using a dataset containing both violent and non-violent video clips. MobileNetV2 is used for feature extraction, while ConvLSTM processes the sequential data to learn the temporal dynamics of the activities. We employ the ReLU activation function and use early stopping to prevent overfitting during training. The model achieves a high accuracy of 96% and is saved in .h5 format for further use in the following modules. 
 
