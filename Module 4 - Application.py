@@ -15,8 +15,8 @@ import os
 # Load the trained model
 MODEL_PATH = 'modelnew.h5'
 model = load_model(MODEL_PATH)
-TOKEN = "7759525166:AAFIMdCkeQv1JzV1_7Rh9637-FuPiqytKzo"  # Telegram Bot Token
-CHAT_ID = "5272729527"  # Replace with your chat ID
+TOKEN = "xxxxxx"  # Replace with your Telegram Bot Token
+CHAT_ID = "00000"  # Replace with your chat ID
 
 def get_time():
     IST = pytz.timezone('Asia/Kolkata')
