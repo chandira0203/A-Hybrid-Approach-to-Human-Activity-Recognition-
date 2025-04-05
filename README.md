@@ -7,6 +7,7 @@ The solution is divided into four key modules:
 Module 1: Model Workbook
 In this module, we develop and train the hybrid model using a dataset containing both violent and non-violent video clips. MobileNetV2 is used for feature extraction, while ConvLSTM processes the sequential data to learn the temporal dynamics of the activities. We employ the ReLU activation function and use early stopping to prevent overfitting during training. The model achieves a high accuracy of 96% and is saved in .h5 format for further use in the following modules. 
 Dataset Link - https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+
 (Note:To make integration easier, the trained model.h5 file is also included directly in the project.)
 
 Module 2: Violence Detection Model
