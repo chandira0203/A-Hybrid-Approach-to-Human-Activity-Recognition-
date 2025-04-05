@@ -12,7 +12,7 @@ In this module, we develop and train the hybrid model using a dataset containing
 
 (**Note:** To make integration easier, the trained model.h5 file is also included directly in the repository named **modelnew.h5**.
 
-Also in module 3 and 4 you have to replace the your unique Telegram bot token and chat ID to get notified.)
+Also in module 3 and 4 you have to replace the Telegram bot token and chat ID to get notified.Those credentials is unique to every user that should be handle with safety and security measures.
 
 
 **Module 2: Violence Detection Model**
