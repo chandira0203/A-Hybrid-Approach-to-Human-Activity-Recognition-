@@ -10,7 +10,10 @@ In this module, we develop and train the hybrid model using a dataset containing
 
 **Dataset Link -** https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 
-(**Note:** To make integration easier, the trained model.h5 file is also included directly in the repository named **modelnew.h5**)
+(**Note:** To make integration easier, the trained model.h5 file is also included directly in the repository named **modelnew.h5**.
+
+Also in module 3 and 4 you have to replace the your unique Telegram bot token and chat ID to get notified.)
+
 
 **Module 2: Violence Detection Model**
 
@@ -23,3 +26,5 @@ This module is responsible for alert generation. When violent activity is detect
 **Module 4: Web Application Integration (Streamlit)**
 
 In the final module, we bring together all the previous components into a single, user-friendly web application built with Streamlit. The user can upload a video through the interface. The system processes the video to detect any violent activity, and if detected, automatically triggers the alert system. This provides an end-to-end solution for real-time human activity monitoring and violence detection.
+
+(Note: Save the module 4 in single word say final.py In the command prompt go to the folder where all modules are saved and do run the command **python -m streamlit run final.py**)
